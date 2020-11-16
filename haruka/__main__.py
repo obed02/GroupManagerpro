@@ -31,7 +31,7 @@ Made By [X_PRESIDENT1 🇬🇭](https://t.me/X_PRESIDENT1)
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
- Add me to a group by clicking [here](http://t.me/tg_GroupManagerBot?startgroup=true).
+ Add me to a group by clicking [here](https://t.me/MiissCindy_bot?startgroup=true).
 """
 
 
